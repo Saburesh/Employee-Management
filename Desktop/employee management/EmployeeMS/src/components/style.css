@@ -1,0 +1,16 @@
+.loginPage{
+    background-color: wheat;
+
+}
+
+.loginForm{
+    background-color: rgba(1, 32, 93, 0.6);
+    color: white;
+}
+
+.employee_image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
